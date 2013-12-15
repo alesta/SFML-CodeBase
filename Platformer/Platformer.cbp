@@ -56,6 +56,7 @@
 		</Linker>
 		<Unit filename="Input" />
 		<Unit filename="include/Animation.h" />
+		<Unit filename="include/Enemy.h" />
 		<Unit filename="include/Entity.h" />
 		<Unit filename="include/FadeTransition.h" />
 		<Unit filename="include/FileManager.h" />
@@ -79,6 +80,7 @@
 		<Unit filename="res/shaders/AmbientShader.glsl" />
 		<Unit filename="res/shaders/VertexShader.glsl" />
 		<Unit filename="src/Animation.cpp" />
+		<Unit filename="src/Enemy.cpp" />
 		<Unit filename="src/Entity.cpp" />
 		<Unit filename="src/FadeTransition.cpp" />
 		<Unit filename="src/FileManager.cpp" />
